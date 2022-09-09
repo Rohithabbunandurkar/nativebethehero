@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45161" started-at="2022-09-09T10:59:41Z" finished-at="2022-09-09T11:00:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45161" started-at="2022-09-09T10:59:41Z" finished-at="2022-09-09T11:00:26Z">
+      <class name="com.pageobject.tc_99">
+        <test-method status="PASS" signature="opencode()[pri:0, instance:com.pageobject.tc_99@548e7350]" name="opencode" is-config="true" duration-ms="10359" started-at="2022-09-09T10:59:41Z" finished-at="2022-09-09T10:59:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opencode -->
+        <test-method status="PASS" signature="opencode()[pri:0, instance:com.pageobject.tc_99@548e7350]" name="opencode" duration-ms="12931" started-at="2022-09-09T10:59:51Z" finished-at="2022-09-09T11:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opencode -->
+        <test-method status="PASS" signature="tc99()[pri:0, instance:com.pageobject.tc_99@548e7350]" name="tc99" duration-ms="20666" started-at="2022-09-09T11:00:04Z" finished-at="2022-09-09T11:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc99 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.pageobject.tc_99@548e7350]" name="teardown" is-config="true" duration-ms="1171" started-at="2022-09-09T11:00:25Z" finished-at="2022-09-09T11:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.pageobject.tc_99 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

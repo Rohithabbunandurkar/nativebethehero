@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.pageobject.tc_3">
+        <methods>
+          <include name="tc3"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_3 -->
+      <class name="com.pageobject.tc_5">
+        <methods>
+          <include name="tc5"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_5 -->
+      <class name="com.pageobject.tc_1">
+        <methods>
+          <include name="tc1"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_1 -->
+      <class name="com.pageobject.tc_6">
+        <methods>
+          <include name="tc6"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_6 -->
+      <class name="com.pageobject.tc_8">
+        <methods>
+          <include name="tc8"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_8 -->
+      <class name="com.pageobject.tc_99">
+        <methods>
+          <include name="tc99"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_99 -->
+      <class name="com.pageobject.tc_2">
+        <methods>
+          <include name="tc2"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_2 -->
+      <class name="com.pageobject.tc_4">
+        <methods>
+          <include name="tc4"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_4 -->
+      <class name="com.pageobject.tc_9">
+        <methods>
+          <include name="tc9"/>
+        </methods>
+      </class> <!-- com.pageobject.tc_9 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
